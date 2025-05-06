@@ -1,0 +1,8 @@
+1. Fastqc
+2. Bowtie against yeast genome
+3. Find partially mapped pairs > SAM
+4. Make BED files to find intervals with sequences found in 3
+5. Map the other end of pairs found in 3 to transposon, interval by interval 
+6. Find orientation of transposon
+
+More details are commented on code
